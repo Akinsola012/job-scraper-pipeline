@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+*.log
+.vscode/
+jobs_labeled.csv
+jobs.csv
+analyze_jobs.py
+page_0.html
+page_10.html
+page_20.html
+user_data_dir
+chromedriver.exe
+chromedriver-win64
