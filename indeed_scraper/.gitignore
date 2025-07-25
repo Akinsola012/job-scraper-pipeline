@@ -13,3 +13,4 @@ page_20.html
 user_data_dir
 chromedriver.exe
 chromedriver-win64
+venv/
